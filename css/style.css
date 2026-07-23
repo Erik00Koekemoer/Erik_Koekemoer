@@ -384,7 +384,7 @@ ul {
         18px 0 24px;
 
     font-size:
-        clamp(2rem, 3vw, 4rem);
+        clamp(3rem, 6vw, 5.7rem);
 
     line-height: 0.98;
 
@@ -852,7 +852,7 @@ ul {
 }
 
 .project-number {
-    margin-bottom: auto;
+    margin-bottom: 24px;
 
     color:
         rgba(73, 103, 90, 0.28);
